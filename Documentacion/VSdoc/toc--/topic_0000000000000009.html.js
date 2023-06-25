@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"ProyectoCS Reference","topic_0000000000000109.html"],['218',"ProyectoCS.Datos Namespace","topic_0000000000000004.html"],['222',"DbContext Class","topic_0000000000000007.html"],['223',"Fields","topic_0000000000000007_vars--.html"],['226',"Reader Field","topic_0000000000000009.html"]];

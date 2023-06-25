@@ -1,0 +1,1 @@
+search_result['346']=["topic_000000000000009A.html","ActividadDataTable.Clone Method","Clona la estructura de la DataTable, todas las incluidas DataTable esquemas y restricciones."];

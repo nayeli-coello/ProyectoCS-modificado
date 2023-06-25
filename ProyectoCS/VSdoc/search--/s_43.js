@@ -1,0 +1,1 @@
+search_result['43']=["topic_0000000000000012.html","Recluso Class","/// Clase que gestiona las operaciones relacionadas con los reclusos en la base de datos.\r\n    ///"];

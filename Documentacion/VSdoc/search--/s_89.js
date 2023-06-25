@@ -1,0 +1,1 @@
+search_result['89']=["topic_000000000000001D.html","ExceptionRepresentante Constructor","/// Inicializa una nueva instancia de la clase ExceptionRepresentante con un mensaje de error predeterminado.\r\n        ///"];

@@ -1,0 +1,1 @@
+search_result['235']=["topic_0000000000000050.html","RegisRecluso Constructor","/// Constructor de la clase RegisRecluso.\r\n        ///"];

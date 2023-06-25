@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"ProyectoCS Reference","topic_0000000000000109.html"],['239',"ProyectoCS.Excepciones Namespace","topic_0000000000000015.html"],['244',"ExceptionRecluso Class","topic_000000000000001A.html"],['245',"ExceptionRecluso Constructor","topic_000000000000001B.html"]];

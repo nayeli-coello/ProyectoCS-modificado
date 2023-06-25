@@ -1,0 +1,1 @@
+search_result['34']=["topic_000000000000000E.html","Informes.ReportRecluso Method","/// Genera un informe de reclusos y lo muestra en un control ReportViewer.\r\n        ///"];

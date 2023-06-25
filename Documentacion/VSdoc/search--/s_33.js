@@ -1,0 +1,1 @@
+search_result['33']=["topic_000000000000000D.html","Informes.ReportRepresentante Method","/// Genera un informe de representantes y lo muestra en un control ReportViewer.\r\n        ///"];

@@ -1,0 +1,1 @@
+search_result['68']=["topic_0000000000000017.html","ExceptionActividad Constructor","Inicializa una nueva instancia de la clase ExceptionActividad con un mensaje de error predeterminado."];

@@ -1,0 +1,1 @@
+search_result['350']=["topic_000000000000009E.html","ActividadDataTable.GetRowType Method","Obtiene el tipo de fila."];

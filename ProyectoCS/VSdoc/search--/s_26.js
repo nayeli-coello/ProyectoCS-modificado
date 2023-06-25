@@ -1,0 +1,1 @@
+search_result['26']=["topic_000000000000000B.html","Command Field","Comando utilizado para ejecutar consultas en la base de datos."];

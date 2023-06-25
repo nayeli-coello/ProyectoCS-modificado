@@ -1,0 +1,1 @@
+search_result['277']=["topic_0000000000000067.html","Tablas.GetSchemaSerializable Method","Devuelve un serializable XMLSchema instancia."];

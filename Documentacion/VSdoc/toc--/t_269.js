@@ -1,0 +1,1 @@
+c['269']=[['270',"LisInscrip Constructor","topic_000000000000002C.html",0],['271',"Methods","topic_000000000000002B_methods--.html",1]];

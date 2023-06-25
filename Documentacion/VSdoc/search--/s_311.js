@@ -1,0 +1,1 @@
+search_result['311']=["topic_0000000000000080.html","RepresentantesDataTable.GetRowType Method","Obtiene el tipo de fila."];

@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"ProyectoCS Reference","topic_0000000000000109.html"],['284',"ProyectoCS.Formularios.General Namespace","topic_0000000000000038.html"],['295',"InfRecluso Class","topic_000000000000003F.html"],['296',"InfRecluso Constructor","topic_0000000000000040.html"]];

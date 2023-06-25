@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"ProyectoCS Reference","topic_0000000000000109.html"],['248',"ProyectoCS.Formularios.Actividades Namespace","topic_000000000000001E.html"],['264',"Inscripciones Class","topic_0000000000000028.html"],['266',"Methods","topic_0000000000000028_methods--.html"]];

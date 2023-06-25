@@ -1,0 +1,1 @@
+search_result['273']=["topic_0000000000000063.html","Tablas.Clone Method","Copia la estructura de la DataSet, todas las incluidas DataTable esquemas, relaciones y restricciones.\r\n               No copia los datos."];

@@ -1,0 +1,1 @@
+search_result['55']=["topic_0000000000000014.html","Usuario Class","Clase que representa un objeto de Usuario.\r\nProporciona métodos para buscar usuarios y mostrar los resultados en una ListView."];

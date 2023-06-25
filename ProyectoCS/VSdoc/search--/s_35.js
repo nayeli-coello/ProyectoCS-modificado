@@ -1,0 +1,1 @@
+search_result['35']=["topic_000000000000000F.html","Informes.ReportActividades Method","/// Genera un informe de actividades y lo muestra en un control ReportViewer.\r\n        ///"];

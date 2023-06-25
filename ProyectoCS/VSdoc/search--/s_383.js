@@ -1,0 +1,1 @@
+search_result['383']=["topic_00000000000000B6.html","ReclusoDataTable.Clone Method","Clona la estructura de la DataTable, todas las incluidas DataTable esquemas y restricciones."];

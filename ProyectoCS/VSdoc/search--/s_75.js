@@ -1,0 +1,1 @@
+search_result['75']=["topic_0000000000000019.html","ExceptionLogin Constructor","/// Inicializa una nueva instancia de la clase ExceptionLogin con un mensaje de error predeterminado.\r\n        ///"];

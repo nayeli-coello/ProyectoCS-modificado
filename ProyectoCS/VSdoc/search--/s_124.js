@@ -1,0 +1,1 @@
+search_result['124']=["topic_0000000000000029.html","Inscripciones Constructor","/// Constructor de la clase Inscripciones.\r\n        ///"];
